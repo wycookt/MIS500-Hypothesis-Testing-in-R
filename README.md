@@ -1,6 +1,4 @@
-# MIS500-Critical-Thinking-Module-4
-
- Implementing R Hypothesis Testing
+Implementing R Hypothesis Testing
 This assignment will make use of an R’s IDE tool to perform hypothesis testing. To get started with this assignment, follow the R installation instructions found in the Course Resources folder.
 
 R is a programming language, and thus, we need to adhere to certain syntax rules. R tasks are segregated into Data and Functions (e.g., Built-in Functions, Control Structures, User-defined Functions). Data steps read in data and perform manipulations on those data (Sorting, Merging, Aggregating, Reshaping, Subsetting, etc.). Functions steps perform analyses, generate informational statistics, make plots, and print listings.
