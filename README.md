@@ -1,3 +1,4 @@
+# MIS500-Hypothesis-Testing-in-R
 Implementing R Hypothesis Testing
 This assignment will make use of an R’s IDE tool to perform hypothesis testing. To get started with this assignment, follow the R installation instructions found in the Course Resources folder.
 
